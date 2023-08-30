@@ -17,6 +17,7 @@
 - In my own projects, i am already using: 
   - Typescript
   - Angular
+  - Nx
   - RxJs
   - MongoDB
   - NestJS
